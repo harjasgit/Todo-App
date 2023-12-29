@@ -1,0 +1,16 @@
+
+{
+  "header" : "Todo App",
+  "_header.comment": "This string is for header",
+
+  "pivots":{
+    "tasksTab" : "TasksList",
+    "tasksFormTab" : "TasksForm",
+     "TasksItemTab" : "TasksItem"
+  } ,
+  "deleteConfirm" : "Are you sure, you want to delete the task ?" ,
+  "addTaskBtn" : "Add Task",
+  "updateTaskBtn" : "update Task"
+
+   
+}
